@@ -6,11 +6,13 @@ title: 我的Blog
 
 ---
 
-{{ page.title }}
+<h2>{{ page.title }}</h2>
 
-最新文章
+<p>最新文章</p>
 
+<ul>
 {% for post in site.posts %}
 
-{{ post.date | date_to_string }} {{ post.title }}
+<li>{{ post.date | date_to_string }}<a href="{{ site.baseurl}}{{post.url }}">{{post.title}}</a></li>
 {% endfor %}
+</ul>
