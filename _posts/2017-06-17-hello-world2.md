@@ -2,12 +2,14 @@
 
 layout: default
 
-title: 你好，世界 html2
+title: 你好，世界 md2
 
 ---
 
 <h2>{{ page.title }}</h2>
 
-<p>hello word 2 heml</p>
-
+<p>   md test</p>
+test
+#test
+##test
 <p>{{ page.date | date_to_string }}</p>
