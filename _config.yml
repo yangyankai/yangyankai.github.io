@@ -3,19 +3,19 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: rouge
+highlighter: pygments
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Yangyankai Blog
+title : Jekyll Bootstrap
 tagline: Site Tagline
 author :
-  name : yangyankai
-  email : yangyankai_mr@outlook.com
-  github : yangyankai
-  twitter : none
-  feedburner : none
+  name : Name Lastname
+  email : blah@email.test
+  github : username
+  twitter : username
+  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
