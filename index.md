@@ -38,9 +38,7 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-### 1
 ##  2  To-Do
-#   3
 
 
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
