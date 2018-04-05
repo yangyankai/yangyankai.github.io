@@ -14,6 +14,5 @@ tags : [Bluetooth  , university]
 
 
 
-<a href="../../../../assets/images/bluetooth_key.pdf">原文链接</a>
-<a href="/assets/images/bluetooth_key.pdf">原文链接2</a>
+<a href="/assets/images/bluetooth_key.pdf">原文链接</a>
 
